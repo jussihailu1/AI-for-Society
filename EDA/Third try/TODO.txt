@@ -1,0 +1,10 @@
+
+
+STEP 3: Playing with data
+- Add more stuff. i.e.: histgram x = dow y = rp(sum)
+- more stuff.
+- Als ik uitzonderingen tegenkom, deze verwijderen ...? In iedergeval aankaarten.
+- Other things to check:
+- Which, out of `is w` or `is nem` (0.01 vs 0.07 respectively), has more influence on `toe` and `receipt price`? Correlation matrix points to `is nem`. But still interesting to prove/visualize with more plots.
+
+STEP 4: Summary
